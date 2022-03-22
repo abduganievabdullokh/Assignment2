@@ -1,0 +1,10 @@
+# ninja log v5
+1433	1743	6688177747137139	shit_code.exe	3a0549772df45850
+288	4467	6693914240277319	CMakeFiles/my_code.dir/Person.cpp.obj	eb000d54fe80e72f
+279	4460	6693914239964907	CMakeFiles/my_code.dir/Student.cpp.obj	840a2d82486699ed
+9	4443	6693914239808718	CMakeFiles/my_code.dir/main.cpp.obj	f868050035d9425f
+4468	5895	6693914254647713	my_code.exe	74ecdf0353fa0afd
+37	3024	6696379883381476	CMakeFiles/my_code.dir/main.cpp.obj	3ed5836fa60ce9d7
+110	3045	6696379883482507	CMakeFiles/my_code.dir/Student.cpp.obj	9d5c7f36028cda46
+99	3048	6696379883684401	CMakeFiles/my_code.dir/Person.cpp.obj	9d2b3e99ca699aef
+3050	3443	6696379887632201	my_code.exe	74ecdf0353fa0afd
